@@ -1,16 +1,27 @@
-# university_student_hub
+# University Student Hub - Flutter App (Assignment 8)
 
-A new Flutter project.
+## 📱 Project Description
+This Flutter project is developed as Assignment 8 for university students.  
+It functions as a hub for managing student-related resources, tasks, and navigation between multiple screens.
 
-## Getting Started
+## 🚀 Features
+- User-friendly dashboard for students  
+- Navigation across multiple sections of the app  
+- Responsive design for various screen sizes  
+- Implementation of core Flutter widgets and state management  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- Flutter  
+- Dart  
 
-A few resources to get you started if this is your first Flutter project:
+## 📂 Project Structure
+- `lib/` → Application source code  
+- `android/` → Android platform files  
+- `ios/` → iOS platform files  
+- `pubspec.yaml` → Project dependencies  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ▶️ How to Run
+1. Install Flutter SDK  
+2. Run `flutter pub get` to fetch dependencies  
+3. Connect an emulator or device  
+4. Run `flutter run` to start the application  
